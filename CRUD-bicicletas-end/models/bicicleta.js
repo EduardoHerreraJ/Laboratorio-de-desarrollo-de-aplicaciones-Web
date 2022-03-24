@@ -17,8 +17,8 @@ Bicicleta.add = function(aBici){
 }
 
 //Añadir un par de bicis:
-let b1 = new Bicicleta(1, 'rojo', 'bmx', '19.284770943610578', '-99.13729060406136')
-let b2 = new Bicicleta(2, 'blanca', 'Benotto', '19.286055116801744', '-99.1369912899661')
+let b1 = new Bicicleta(1, 'azul', 'Sanchez', '19.284770943610578', '-99.13729060406136')
+let b2 = new Bicicleta(2, 'negra', 'Italika', '19.286055116801744', '-99.1369912899661')
 
 Bicicleta.add(b1)
 Bicicleta.add(b2)
